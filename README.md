@@ -1,5 +1,5 @@
-### Hi there 👋
-
+![Muizz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuizMahdi&count_private=true&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuizMahdi&langs_count=8&show_icons=true&theme=vue&layout=compact)](https://github.com/MuizMahdi/github-readme-stats)
 <!--
 **MuizMahdi/MuizMahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
