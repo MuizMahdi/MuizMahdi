@@ -1,6 +1,6 @@
 ## Hi, I'm Muiz
 
-I'm a Software Engineer with experience in web development, from developing web applications using modern Javascript frameworks on the client-side, to the development and architecture of secure and scalable server-side applications, cloud native microservices, and database design. I enjoy working on side projects; I’m always growing and learning, and open for challenging and rewarding opportunities.
+I'm a Software Engineer with experience from developing web applications using modern frameworks on the client-side, to the development and architecture of secure and scalable server-side applications, cloud native microservices, and database design. I enjoy working on side projects; I’m always growing and learning, and open for challenging and rewarding opportunities.
 
 ----
 
